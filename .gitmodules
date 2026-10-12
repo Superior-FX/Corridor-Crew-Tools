@@ -1,12 +1,12 @@
 [submodule "CK2.0_Dev"]
 	path = CK2.0_Dev
-	url = https://github.com/nikopueringer/CK2.0_Dev.git
+	url = https://github.com/Superior-FX/CK2.0_Dev.git
 [submodule "CorridorKey"]
 	path = CorridorKey
-	url = https://github.com/nikopueringer/CorridorKey.git
+	url = https://github.com/Superior-FX/CorridorKey.git
 [submodule "corridorkey-mlx"]
 	path = corridorkey-mlx
-	url = https://github.com/nikopueringer/corridorkey-mlx.git
+	url = https://github.com/Superior-FX/corridorkey-mlx.git
 [submodule "Uni3CRunpod"]
 	path = Uni3CRunpod
-	url = https://github.com/nikopueringer/Uni3CRunpod.git
+	url = https://github.com/Superior-FX/Uni3CRunpod.git
